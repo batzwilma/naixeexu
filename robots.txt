@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebeheiquo.norgram.co/sitemap.xml
